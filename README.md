@@ -6,3 +6,5 @@ The mod is currently not open source, however translators can feel free to use t
 To submit a translation, make a pull request
 
 To submit a feature, make an issue indicating that is as such
+
+When submitting a bug report, include the version, a description of the bug, server and client logs if applicable, a screenshot, and steps to reproduce
