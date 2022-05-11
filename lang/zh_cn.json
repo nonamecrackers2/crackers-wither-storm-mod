@@ -14,6 +14,7 @@
 	"entity.witherstormmod.wither_storm_head": "风暴之首",
 	"entity.witherstormmod.tentacle": "风暴之触",
 	"effect.witherstormmod.wither_sickness": "凋零腐败",
+	"effect.witherstormmod.wither_sickness.description": "凋零的进化变体，似乎会永远持续下去，慢慢地耗尽感染者的生命。",
 	"item.witherstormmod.golden_apple_stew": "金苹果炖菜",
 	"item.witherstormmod.withered_flesh": "凋零碎肉",
 	"item.witherstormmod.withered_bone": "凋零骸骨",
