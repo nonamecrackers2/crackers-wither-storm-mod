@@ -90,7 +90,7 @@
 	"witherstormmod.subtitle.command_block_power_down": "Командный блок входит в пассивный режим",
 	"witherstormmod.subtitle.command_block_death": "Командный блок разрушен",
 	"commands.witherstormmod.setphase.success": "Выберите от %s до %s",
-	"commands.witherstormmod.setphase.invalid": "Невозможно изменить данную фазу",
+	"commands.witherstormmod.setphase.invalid": "Невозможно выбрать данную фазу",
 	"commands.witherstormmod.setconsumed.success": "Установите кол-во использовнных сущности для команды от %s до %s",
 	"commands.witherstormmod.setconsumed.invalid": "Невозможно установить кол-во сущностей",
 	"commands.witherstormmod.setevolution.success": "Установите скорость эволюции от %s до %s",
