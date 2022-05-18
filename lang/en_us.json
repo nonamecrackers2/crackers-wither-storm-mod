@@ -230,6 +230,8 @@
 	"gui.witherstormmod.config.hunchbackClusterPickupInterval.title": "Hunchback Cluster Pick Up Interval",
 	"gui.witherstormmod.config.clusterPickupInterval.title": "Cluster Pick Up Interval",
 	"gui.witherstormmod.config.flyingHeight.title": "Flying Height",
+	"gui.witherstormmod.config.tickInContainers.title": "Tick in Containers",
+	"gui.witherstormmod.config.tillShouldShowHole.title": "Till Should Show Hole",
 	"config.witherstormmod.preset.custom.title": "Custom",
 	"config.witherstormmod.preset.default.title": "Default",
 	"config.witherstormmod.preset.client.high.title": "High",
