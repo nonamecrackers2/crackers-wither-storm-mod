@@ -121,7 +121,7 @@
 	"commands.witherstormmod.distractions.ultimateTargetDistractions.makeFocused.fail": "Выбранный уже сфокусирован",
 	"commands.witherstormmod.newBowels.success": "Делаем внутренности для %s когда закончим; новые внутренности будут использоваться",
 	"commands.witherstormmod.newBowels.failure": "Ошибка с %s ",
-	"gui.witherstormmod.screen.wsmoptions.title": "Cracker's Wither Storm Mod Конфиг,
+	"gui.witherstormmod.screen.wsmoptions.title": "Cracker's Wither Storm Mod Конфиг",
 	"gui.witherstormmod.screen.wsmoptions.info": "Если вы поймаете баг или неприятность, напишите автору на Гит Хабе",
 	"gui.witherstormmod.screen.clientOptions.title": "Настройка Клиента",
 	"gui.witherstormmod.screen.clientOptions.info": "Параметры клиента, визуальные предпочтения и оптимизация.",
