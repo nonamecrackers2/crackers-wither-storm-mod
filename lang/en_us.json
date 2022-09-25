@@ -146,6 +146,7 @@
 	"gui.witherstormmod.screen.witheredSymbiontOptions.info": "Contains options for the Withered Symbiont",
 	"gui.witherstormmod.screen.flywheelCompat.title": "Client Options > Flywheel Compat",
 	"gui.witherstormmod.screen.flywheelCompat.info": "Contains options related to the mods compatibility with Flywheel",
+	"gui.witherstormmod.screen.moreWorldOptions.title": "More World Options",
 	"gui.witherstormmod.button.exitAndSave.title": "Save and Exit",
 	"gui.witherstormmod.button.exit.title": "Exit",
 	"gui.witherstormmod.button.preset.title": "Preset",
