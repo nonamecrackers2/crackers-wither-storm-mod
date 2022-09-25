@@ -1,13 +1,14 @@
 ---
-name: Feature request
-about: Suggest an idea for the mod
-title: ''
+name: WitherStorm Riser.flac
+about: this sound effect should be heard when the witherstorm evolves at phase 4 and the rest above phase 4
+title: 'WitherStorm Riser Sound'
 labels: suggestion
 assignees: ''
 
 ---
 
 **Description of feature**
-Describe what you want in the mod. Make sure this was not already suggested. List of commonly suggested features: https://github.com/nonamecrackers2/crackers-wither-storm-mod/issues/217
+This sound should be in the mod, it gives tension and impending doom to the witherstorm
+https://www.youtube.com/watch?v=Le_tj9yTRSc
 
 **ONLY ONE FEATURE REQUEST PER ISSUE**
