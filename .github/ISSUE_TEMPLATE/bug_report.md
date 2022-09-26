@@ -26,5 +26,8 @@ Steps to reproduce the behavior:
 **Crash Reports / Logs**
 Crash reports / logs hosted on pastebin, gist, etc.
 
+**Is Flywheel's optimizations active?**
+Specify if Flywheel is installed and it's compat optimizations are enabled
+
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
