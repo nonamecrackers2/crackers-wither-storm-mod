@@ -289,10 +289,13 @@
 	"advancements.witherstormmod.main.belly_of_the_beast.description": "Войдите во внутрь иссушающей бури",
 	"advancements.witherstormmod.main.wither_storm_defeated.title": "Когда одна история заканчивается, начинается другая",
 	"advancements.witherstormmod.main.wither_storm_defeated.description": "Одолейте Иссушающую Бурю, навсегда",
+	"advancements.witherstormmod.main.spyglass_at_wither_storm.title": "Это не птица!",
+	"advancements.witherstormmod.main.spyglass_at_wither_storm.description": "Взгляните на Иссушающаю Бурю, используя подзорную трубу.",
 	"death.attack.flamingWitherSkull": "%1$s был убит черепом %2$s",
 	"death.attack.witherSickness": "%1$s захворал до смерти",
 	"death.attack.witherSickness.player": "%1$s захворал до смерти, пока сражался с %2$s",
 	"death.attack.formidibomb": "%1$s был накрыт катастрофической волной взрыва",
   	"death.attack.formidibomb.player": "%1$s был накрыт катастрофической волной взрыва от рук %2$s",
-  	"death.attack.formidibomb.player.item": "%1$s был накрыт катастрофической волной взрыва от рук, %2$s используя %3$s"
+  	"death.attack.formidibomb.player.item": "%1$s был накрыт катастрофической волной взрыва от рук, %2$s используя %3$s",
+	"chat.witherstormmod.bowels.structuresDisabled": "ВНИМАНИЕ: Структуры в настройках мира отключены! Войти в брюхо невозможно!"
 }
