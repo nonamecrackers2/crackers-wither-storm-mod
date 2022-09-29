@@ -314,5 +314,5 @@
 	"death.attack.formidibomb": "%1$s aaaaaaaaaaaa bum",
   	"death.attack.formidibomb.player": "%1$s bum, beacuse %2$s",
   	"death.attack.formidibomb.player.item": "%1$s bum %2$s wuae%3$s",
-	"chat.witherstormmod.bowels.structuresDisabled": "WARNING: Structures are disabled in this world! The bowels cannot be accessed.",
+	"chat.witherstormmod.bowels.structuresDisabled": "WARNING: Structures are disabled in this world! The bowels cannot be accessed."
 }
