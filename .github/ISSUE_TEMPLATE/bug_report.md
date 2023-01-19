@@ -6,6 +6,7 @@ labels: ''
 assignees: ''
 
 ---
+***Please check the guidelines before submitting:*** https://github.com/nonamecrackers2/crackers-wither-storm-mod/issues/217
 
 **Minecraft version**
 The version of Minecraft the mod is running on
