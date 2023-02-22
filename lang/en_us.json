@@ -111,7 +111,7 @@
 	"commands.witherstormmod.explodeStorm.failure": "%s is already playing dead",
 	"commands.witherstormmod.reviveStorm.success": "Reviving %s",
 	"commands.witherstormmod.reviveStorm.failure": "%s has already been revived",
-	"commands.witherstormmod.enterBowels.failure": "Something went wrong when trying to setup the bowels for %s (report to mod author)",
+	"commands.witherstormmod.enterBowels.failure": "Something went wrong when trying to setup the bowels for %s",
 	"commands.witherstormmod.enterBowels.failure.cannotChangeDim": "Selector cannot change dimensions",
 	"commands.witherstormmod.enterBowels.dim.invalid": "Selector is already in the bowels",
 	"commands.witherstormmod.createDebris.success": "Creating debris for %s",
@@ -232,6 +232,8 @@
 	"gui.witherstormmod.config.flyingHeight.title": "Flying Height",
 	"gui.witherstormmod.config.tickInContainers.title": "Tick in Containers",
 	"gui.witherstormmod.config.tillShouldShowHole.title": "Till Should Show Hole",
+	"gui.witherstormmod.config.earRingingEffects.title": "Ear Ringing Effects",
+	"gui.witherstormmod.config.renderSegmentDebris.title": "Render Segment Debris",
 	"config.witherstormmod.preset.custom.title": "Custom",
 	"config.witherstormmod.preset.default.title": "Default",
 	"config.witherstormmod.preset.client.high.title": "High",
@@ -284,5 +286,6 @@
 	"death.attack.witherSickness.player": "%1$s wilted away whilst fighting %2$s",
 	"death.attack.formidibomb": "%1$s experienced a catastrophic explosion",
   	"death.attack.formidibomb.player": "%1$s experienced a catastrophic explosion at the hands of %2$s",
-  	"death.attack.formidibomb.player.item": "%1$s experienced a catastrophic explosion at the hands of %2$s using %3$s"
+  	"death.attack.formidibomb.player.item": "%1$s experienced a catastrophic explosion at the hands of %2$s using %3$s",
+  	"chat.witherstormmod.bowels.structuresDisabled": "WARNING: Structures are disabled in this world! The bowels cannot be accessed."
 }
