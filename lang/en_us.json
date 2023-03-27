@@ -336,6 +336,9 @@
 	"gui.witherstormmod.config.alternativeEntityFogShape.title": "Alternative Entity Fog Shape",
 	"gui.witherstormmod.config.randomBowelsEntrance.title": "Random Bowels Entrance",
 	"gui.witherstormmod.config.chunksToLoad.title": "Chunk Loading Max Count",
+	"gui.witherstormmod.config.optifineWarning.title": "OptiFine Warning",
+	"gui.witherstormmod.config.vertexBufferRendering.title": "Vertex Buffer Rendering",
+	"gui.witherstormmod.config.aprilFools.title": "April Fools Render Effects",
 	"config.witherstormmod.preset.custom.title": "Custom",
 	"config.witherstormmod.preset.default.title": "Default",
 	"config.witherstormmod.preset.client.high.title": "High",
@@ -397,6 +400,8 @@
 	"death.attack.formidibomb": "%1$s experienced a catastrophic explosion",
   	"death.attack.formidibomb.player": "%1$s experienced a catastrophic explosion at the hands of %2$s",
   	"death.attack.formidibomb.player.item": "%1$s experienced a catastrophic explosion at the hands of %2$s using %3$s",
+  	"death.attack.witherStorm": "%1$s was chomped by %2$s",
   	"chat.witherstormmod.bowels.structuresDisabled": "WARNING: Structures are disabled in this world! The bowels cannot be accessed.",
+  	"chat.witherstormmod.optifine.notice": "WARNING: Cracker's Wither Storm Mod does not support OptiFine, issues may arise and certain performance features may be disabled. Click this message to see a list of incompatibilities and their potential fixes. This message will not show again.",
   	"withered_beacon.info": "The Withered Beacon will apply the selected effect to all nearby players in a very large radius.\n\nIn order to activate the Withered Beacon, a 3x3 square of lapis blocks must be constructed directly below it. Then, more layers of any valid beacon base blocks can be added in a pyramid shape to increase the strength of the selected effect.\n\nWithered Support Beacons can be connected and will apply effects from an infinite distance in the direction the connecting beam makes. To connect a support beacon, make a 3x3 square directly underneath the beacon of either emerald, diamond, redstone, or iron blocks. Make sure the support beacon is within 5 blocks of the main beacon. There can only be one of each color and a maximum of four can be connected."
 }
