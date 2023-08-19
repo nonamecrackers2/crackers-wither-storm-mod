@@ -1,0 +1,100 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug", "needs confirming"]
+projects: []
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ***Please check the guidelines before submitting:*** https://github.com/nonamecrackers2/crackers-wither-storm-mod/issues/217
+  - type: dropdown
+    id: mc-version
+    attributes:
+      label: Minecraft Version
+      description: The version of Minecraft you are using
+      options:
+        - "1.16.5"
+        - "1.18.2"
+        - "1.19"
+        - "1.19.1"
+        - "1.19.2"
+        - "1.19.3"
+        - "1.19.4"
+    validations:
+      required: true
+  - type: dropdown
+    id: mod-version
+    attributes:
+      label: Mod Version
+      description: The version of the mod you are using
+      options:
+        - "1.0"
+        - "1.0.1"
+        - "1.0.2"
+        - "1.0.2.1"
+        - "1.0.2.2"
+        - "1.0.2.3"
+        - "1.0.2.4"
+        - "1.0.3"
+        - "2.0-beta"
+        - "2.0-beta2"
+        - "2.0-beta3"
+        - "2.0"
+        - "2.0.1"
+        - "2.0.1.1"
+        - "2.0.1.2"
+        - "2.1"
+        - "2.1.1"
+        - "2.2"
+        - "2.2.1"
+        - "3.0-beta"
+        - "3.1"
+        - "3.1.1"
+        - "3.1.1.1"
+        - "3.2"
+        - "3.2.1"
+        - "3.2.1.1"
+        - "3.2.1.2"
+        - "3.2.1.3"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: To Reproduce
+      description: Steps to reproduce the bug
+      value: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+    validations:
+      required: true
+  - type: input
+    id: crash-reports-logs
+    attributes:
+      label: Crash Reports/Logs
+      description: Crash reports / logs hosted on pastebin, gist, etc.
+  - type: checkboxes
+    id: optifine-installed
+    attributes:
+      label: Is OptiFine installed?
+      description: "Specify if you're using optifine"
+      options:
+        - label: Optifine is installed
+          required: true
+  - type: input
+    id: screenshots
+    attributes:
+      label: Screenhots
+      description: If applicable, add screenshots to help explain your problem.
