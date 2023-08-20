@@ -1,0 +1,20 @@
+name: Feature Request
+description: Suggest an idea for the mod
+title: "[Suggestion]: "
+labels: ["suggestion"]
+projects: []
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ***Please check the guidelines before submitting:*** https://github.com/nonamecrackers2/crackers-wither-storm-mod/issues/217
+        
+        **ONLY ONE FEATURE REQUEST PER ISSUE!**
+  - type: textarea
+    id: description
+    attributes:
+      label: Desription of feature request
+      placeholder: "Describe what you'd like to see in the mod. Don't spare the details!"
+    validations:
+      required: true
