@@ -93,8 +93,9 @@ body:
       options:
         - label: Optifine is installed
           required: true
-  - type: input
+  - type: textarea
     id: screenshots
     attributes:
       label: Screenhots
       description: If applicable, add screenshots to help explain your problem.
+      placeholder: Link(s) to any applicable screenshot(s)
