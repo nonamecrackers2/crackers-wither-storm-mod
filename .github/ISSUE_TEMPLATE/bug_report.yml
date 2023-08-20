@@ -92,7 +92,7 @@ body:
       description: "Specify if you're using optifine"
       options:
         - label: Optifine is installed
-          required: true
+          required: false
   - type: textarea
     id: screenshots
     attributes:
