@@ -67,12 +67,16 @@ body:
       description: The mod loader you are using
       options:
         - Forge
+    validations:
+      required: true
   - type: input
     id: mod-loader-version
     attributes:
       label: Mod Loader Version
       description: The version of the mod loader you are using
       placeholder: e.x. 45.1.0
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:
