@@ -60,6 +60,19 @@ body:
         - "1.0"
     validations:
       required: true
+  - type: dropdown
+    id: mod-loader
+    attributes:
+      label: Mod Loader
+      description: The mod loader you are using
+      options:
+        - Forge
+  - type: input
+    id: mod-loader-version
+    attributes:
+      label: Mod Loader Version
+      description: The version of the mod loader you are using
+      placeholder: e.x. 45.1.0
   - type: textarea
     id: description
     attributes:
@@ -99,3 +112,11 @@ body:
       label: Screenhots
       description: If applicable, add screenshots to help explain your problem.
       placeholder: Link(s) to any applicable screenshot(s)
+  - type: textarea
+    id: mod-list
+    attributes:
+      label: Mod List
+      description: If applicable, include the list of mods that were enabled when the bug occurred, or NONE if there were no extras
+      placeholder: List of mods
+    validations:
+      required: true
