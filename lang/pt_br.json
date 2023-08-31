@@ -1,4 +1,4 @@
-{
+{	
   "entity.witherstormmod.wither_storm": "Wither Storm",
   "entity.witherstormmod.block_cluster": "Grupo de Blocos",
   "entity.witherstormmod.wither_storm_segment": "Segmento do Wither Storm",
@@ -7,7 +7,7 @@
   "entity.witherstormmod.sickened_skeleton": "Skeleton Infectado",
   "entity.witherstormmod.sickened_spider": "Aranha Infectado",
   "entity.witherstormmod.sickened_creeper": "Creeper Infectado",
-"entity.witherstormmod.sickened_villager": "Villager Infectado",
+  "entity.witherstormmod.sickened_villager": "Villager Infectado",
   "entity.witherstormmod.super_tnt": "Super TNT",
   "entity.witherstormmod.formidibomb": "Bomba Formidi",
   "entity.witherstormmod.command_block": "Bloco de Comando",
