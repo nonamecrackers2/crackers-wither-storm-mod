@@ -4,6 +4,8 @@ We believe that peoples suggestions and bug reports are extremely valuable to he
 
 **Please read this in its entirely!**
 
+Please, do not open issues to ask questions or for assistance. That is far better suited for the official [Discord server](https://discord.gg/cracker-s-modded-community-987817685293355028), or in the [discussions tab](https://github.com/nonamecrackers2/crackers-wither-storm-mod/discussions).
+
 ## Suggestions/Feature Requests:
 
 We get a lot of suggestions, and we cannot implement them all. Some we close if it doesn’t fit the vision of the mod, difficulty of implementing, and if it is even worth implementing. These guidelines help limit time wasted closing duplicate suggestions, etc. 
