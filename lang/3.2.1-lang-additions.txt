@@ -1,9 +1,0 @@
-New lang additions for 1.19.4 - 3.2.1
-
-{
-	"gui.witherstormmod.config.optifineWarning.title": "OptiFine Warning",
-	"gui.witherstormmod.config.vertexBufferRendering.title": "Vertex Buffer Rendering",
-	"gui.witherstormmod.config.aprilFools.title": "April Fools Render Effects",
-	"death.attack.witherStorm": "%1$s was chomped by %2$s",
-	"chat.witherstormmod.optifine.notice": "WARNING: Cracker's Wither Storm Mod does not support OptiFine, issues may arise and certain performance features may be disabled. Click this message to see a list of incompatibilities and their potential fixes. This message will not show again."
-}
