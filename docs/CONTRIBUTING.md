@@ -46,4 +46,7 @@ Before opening a bug report, make sure it’s not already been reported and/or f
 
 Make sure to supply your mod list **if you have more mods installed other than Cracker's Wither Storm Mod.**
 
+If the bug is due to the game crashing, provide the crash report! If you don't your issue will be closed, and you will have to resubmit it.
+You can find crash reports in `.minecraft/crash-reports`
+
 **If you’re facing an issue, check the [Known Compatibility Issues](https://github.com/nonamecrackers2/crackers-wither-storm-mod/wiki/Known-Compatibility-Issues) page before reporting here as it may have a fix.**
