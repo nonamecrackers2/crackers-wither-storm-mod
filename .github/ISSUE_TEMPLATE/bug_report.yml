@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        # Please check the [guidelines](https://github.com/nonamecrackers2/crackers-wither-storm-mod/blob/1.16.5/docs/CONTRIBUTING.md) before submitting
+        # Please check the (UPDATED) [guidelines](https://github.com/nonamecrackers2/crackers-wither-storm-mod/blob/1.16.5/docs/CONTRIBUTING.md) before submitting
   - type: dropdown
     id: mc-version
     attributes:
