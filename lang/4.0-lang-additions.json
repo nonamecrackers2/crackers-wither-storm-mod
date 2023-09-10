@@ -348,9 +348,9 @@
 		"witherstormmod.jei.super_beacon.requiresAllSupports": "Requires All Four Supports",
 		"witherstormmod.jei.super_beacon.requiresFullBeacon": "Requires Completed Level 4 Beacon",
 		"witherstormmod.jei.tainted_pumpkin_info": "Throw a potion of decay on a normal pumpkin block to convert it to its tainted variant",
-        "commands.witherstormmod.chunkloader.get.specific": "%s has %s chunks loaded out of %s at X: %s Z: %s",
-        "commands.witherstormmod.chunkloader.get": "CWSM has %s chunks loaded; %s total to load",
-        "commands.witherstormmod.chunkloader.none": "Selector has no chunks force loaded!",
-        "commands.witherstormmod.chunkloader.refresh": "Refreshing all chunk loaders"
+	        "commands.witherstormmod.chunkloader.get.specific": "%s has %s chunks loaded out of %s at X: %s Z: %s",
+	        "commands.witherstormmod.chunkloader.get": "CWSM has %s chunks loaded; %s total to load",
+	        "commands.witherstormmod.chunkloader.none": "Selector has no chunks force loaded!",
+	        "commands.witherstormmod.chunkloader.refresh": "Refreshing all chunk loaders"
 	}
 }
