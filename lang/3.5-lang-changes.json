@@ -1,0 +1,15 @@
+{
+    "additions": {
+        "entity.witherstormmod.sickened_snow_golem": "Sickened Snow Golem",
+        "gui.witherstormmod.config.convertFallingBlocks.description": "Specifies if the Wither Storm should convert falling blocks into clusters (NOTE: This can be very laggy and cause the Wither Storm to evolve fast!).",
+        "gui.witherstormmod.config.convertFallingBlocks.title": "Convert Falling Blocks",
+        "gui.witherstormmod.config.healFromChomp.description": "Specifies if the Wither Storm should heal whenever it eats a mob (determined by half the mob's max health).",
+        "gui.witherstormmod.config.healFromChomp.title": "Heal From Chomp",
+        "gui.witherstormmod.config.tractorBeamsRemoveFluids.description": "Makes it so the Wither Storm will remove fluids above Y 63 with its tractor beams.",
+        "gui.witherstormmod.config.tractorBeamsRemoveFluids.title": "Tractor Beams Remove Fluids",
+        "item.witherstormmod.iron_command_tool.info": "Deals it's damage twice, once as normal damage and then again as piercing damage!",
+        "item.witherstormmod.sickened_snow_golem_spawn_egg": "Sickened Snow Golem Spawn Egg"
+    },
+    "changes": {},
+    "removals": {}
+}
