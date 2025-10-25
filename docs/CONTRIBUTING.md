@@ -34,6 +34,7 @@ We get a lot of suggestions, and we cannot implement them all. Some we close if 
 > [!WARNING]
 > **Do NOT suggest your idea if it relates to:**
 > - Making the mod more “accurate” to Minecraft: Story Mode (don’t request specific features such as characters, items, or mechanics from the game)
+> - Expanding the progression of the mod (this includes more phases)
 > - Making drastic model changes 
 > - Texture changes (unless if it’s to fix inconsistencies or genuine mistakes with the texture). Texture changes are far better suited for resource packs
 > - Drastic progression changes. Most progression changes would fit best in a custom modpack. *Feel free to suggest configuration options/commands that would help/allow you to pull off your idea*
