@@ -43,6 +43,8 @@ We get a lot of suggestions, and we cannot implement them all. Some we close if 
 > - Features that haven't been released yet but have been showcased. You don't need to suggest what's already coming
 > - More sickened mobs (they will be added as they are added)
 > - Tainted variants of existing blocks/items (we will add more on our own discretion)
+> - Updating to "X" version, we will get to it when we're able to
+> - Backporting to "X" version, we don't plan on porting back to older versions as we're always updating the code to be inline with newer versions
 
 ## Bug reports:
 
